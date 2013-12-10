@@ -1,2 +1,4 @@
-projet-bac
-==========
+Projet
+======
+
+(c) Memet93
